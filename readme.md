@@ -1,4 +1,5 @@
 Short Program to send emails.
 
-sendEmail.py send plain text emails.
-sendEmailWithAttachments.py send plain text emails with attachments.
+sendEmail send plain text emails.
+
+sendEmailWithAttachments send plain text emails with attachments.
